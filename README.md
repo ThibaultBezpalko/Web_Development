@@ -1,2 +1,2 @@
 # Web_Development
-Vitrine de modestes productions réalisées lors de MOOC
+Vitrine de productions réalisées lors de MOOC autour du web development.
